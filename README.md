@@ -10,3 +10,8 @@ This data set contains information about 10,000 movies collected from The Movie 
 - What genres of movie is most popular?
 - What production company produces the most movies?
 - What movie has the highest revenue?
+
+
+## Data
+This data set comes from Kaggle and can be found here:
+https://www.kaggle.com/tmdb/tmdb-movie-metadata/code
